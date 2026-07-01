@@ -1,0 +1,3 @@
+com\cognizant\jwt_handson\JwtHandsonApplication.class
+com\cognizant\jwt_handson\model\AuthenticationResponse.class
+com\cognizant\jwt_handson\model\AuthenticationRequest.class
